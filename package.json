@@ -1,0 +1,24 @@
+{
+  "name": "Pirates Abone Code",
+  "version": "0.0.1",
+  "description": "Pirates Abone",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Piece",
+    "Serendia"
+  ]
+}
